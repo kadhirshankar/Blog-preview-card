@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "my-js-project",
+			"path": "../../Desktop/my-js-project"
+		},
+		{
+			"name": "qr-code-component-main",
+			"path": "../qr-code-component-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "qr-code-component-main"
+	}
+}
